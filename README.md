@@ -17,8 +17,8 @@ Datadog (DDOG)
 Kinesis Firehose Delivery Stream transforms records and streams them into an S3 bucket. I set up a Glue crawler and run AWS Athena queries against the data to get the highest hourly stock “high” per company from the list above.
 
 ### AWS Kinesis configuration page
-![](/assets/kinesis_config.png)
+![image](/assets/kinesis_config.png)
 
 ### Kinesis Data Firehose Delivery Stream Monitoring
-![](/assets/screenshot_of_s3_bucket.png)
+![image](/assets/screenshot_of_s3_bucket.png)
 
