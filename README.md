@@ -20,5 +20,5 @@ Kinesis Firehose Delivery Stream transforms records and streams them into an S3 
 ![image](assets/kinesis_config.PNG)
 
 ### Kinesis Data Firehose Delivery Stream Monitoring
-![image](assets/screenshot_of_s3_bucket.png)
+![image](assets/screenshot_of_s3_bucket.PNG)
 
